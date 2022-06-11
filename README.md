@@ -1,8 +1,8 @@
 # Universite
 Just some projects I did during my years at the University
 
-## ProjetSI : 
+#### ProjetSI : 
 C++/OpenGL
 
-## SR : 
+#### SR : 
 C, unfinished
