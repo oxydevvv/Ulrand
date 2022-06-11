@@ -1,5 +1,5 @@
 # Universite
-Just some projects I did during my years at the University
+Just some projects I did during my years at University
 
 #### ProjetSI : 
 C++/OpenGL
